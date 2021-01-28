@@ -1,4 +1,4 @@
-#Завдання 10
+#### Завдання 10
 ## ski.py раниться за допомогою Sikuli IDE (must add SIKULI_HOME env var "sikulixide-2.0.4") && Jython
 ## Інший варіанг рану 10 завдання представлений у вигляді solution.cs (перероблена лаба)
 
